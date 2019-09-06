@@ -1,0 +1,6 @@
+{
+  "short_name": "Trakx",
+  "name": "Trakx Exchange",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
